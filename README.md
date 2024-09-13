@@ -39,5 +39,5 @@ This is a Flask application that provides a RESTful API for performing CRUD (Cre
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/MOHDZAMA/coride.git
+cd coride
